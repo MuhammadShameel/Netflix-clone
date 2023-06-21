@@ -417,6 +417,10 @@ footer {
   }
 }
 
+.signin__button {
+  padding: 10px 20px;
+  font-size: 18px;
+}
 @media (min-width: 1024px) {
   .navbar {
     padding: 2% 5%;
@@ -426,10 +430,6 @@ footer {
     width: 150px;
   }
 
-  .signin__button {
-    padding: 10px 20px;
-    font-size: 18px;
-  }
   .dropdown__container {
     padding: 10px 5px;
   }
